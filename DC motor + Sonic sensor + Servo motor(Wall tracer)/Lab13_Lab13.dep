@@ -1,0 +1,24 @@
+Dependencies for Project 'Lab13', Target 'Lab13': (DO NOT MODIFY !)
+F (.\startup.s)(0x57012B08)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\keil\ARM\RV31\INC-I C:\keil\ARM\CMSIS\Include-I C:\keil\ARM\Inc\Luminary--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\DC_motor.c)(0x66097C6A)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\..-I C:\keil\ARM\RV31\INC-I C:\keil\ARM\CMSIS\Include-I C:\keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o .\dc_motor.o --omf_browse .\dc_motor.crf --depend .\dc_motor.d)
+I (TExaS.h)(0x6552F934)
+I (DC_motor.h)(0x660D0482)
+I (tm4c123gh6pm.h)(0x51D3F222)
+I (sonic.h)(0x65EDCD90)
+I (C:\keil\ARM\ARMCC\include\stdlib.h)(0x51C7B744)
+I (C:\keil\ARM\ARMCC\include\math.h)(0x51C7B744)
+F (.\Line_tracer.c)(0x660D04B7)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\..-I C:\keil\ARM\RV31\INC-I C:\keil\ARM\CMSIS\Include-I C:\keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o .\line_tracer.o --omf_browse .\line_tracer.crf --depend .\line_tracer.d)
+I (tm4c123gh6pm.h)(0x51D3F222)
+I (TExaS2.h)(0x6552E42E)
+I (DC_motor.h)(0x660D0482)
+I (sonic.h)(0x65EDCD90)
+I (C:\keil\ARM\ARMCC\include\stdlib.h)(0x51C7B744)
+F (.\sonic.c)(0x65F85FAE)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\..-I C:\keil\ARM\RV31\INC-I C:\keil\ARM\CMSIS\Include-I C:\keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o .\sonic.o --omf_browse .\sonic.crf --depend .\sonic.d)
+I (C:\keil\ARM\ARMCC\include\stdio.h)(0x51C7B744)
+I (C:\keil\ARM\ARMCC\include\math.h)(0x51C7B744)
+I (C:\keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (TExaS.h)(0x6552F934)
+I (PLL.h)(0x65EC2796)
+I (sonic.h)(0x65EDCD90)
+I (tm4c123gh6pm.h)(0x51D3F222)
+F (.\texas.o)(0x56F3EE30)()
