@@ -1,0 +1,7 @@
+Dependencies for Project 'Lab6', Target 'Lab6': (DO NOT MODIFY !)
+F (.\startup.s)(0x655CB19C)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\keil\ARM\RV31\INC-I C:\keil\ARM\CMSIS\Include-I C:\keil\ARM\Inc\Luminary--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\BranchingFunctionsDelays.c)(0x660D0142)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\..-I C:\keil\ARM\RV31\INC-I C:\keil\ARM\CMSIS\Include-I C:\keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o .\branchingfunctionsdelays.o --omf_browse .\branchingfunctionsdelays.crf --depend .\branchingfunctionsdelays.d)
+I (TExaS.h)(0x5698EFB8)
+I (tm4c123gh6pm.h)(0x656370A4)
+F (.\SysTick.c)(0x65634410)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\..-I C:\keil\ARM\RV31\INC-I C:\keil\ARM\CMSIS\Include-I C:\keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o .\systick.o --omf_browse .\systick.crf --depend .\systick.d)
+F (.\texas.o)(0x5698EFB8)()
